@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/YuYuYouEr_Kinect_SDK_Wrapper/_Scenes/YuYuYouEr_Kinect_SDK_Wrapper.unity
+  isLoaded: 1
+  isActive: 1
